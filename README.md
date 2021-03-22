@@ -11,4 +11,5 @@
 
 ## Credits
 
+- [Erick Wendel](https://www.youtube.com/watch?v=Pd_LS7p_BX4) channel video tutorial 
 - Layout got from [Ettrics' CodePen](https://codepen.io/ettrics/pen/KpzzQZ)
